@@ -1,0 +1,8 @@
+name: RizzOptimizer
+version: 1.0
+main: com.rizzoptimizer.Main
+api-version: 1.21
+
+commands:
+  optimize:
+    description: Optimize server
