@@ -1,0 +1,4 @@
+tps-threshold: 18.5
+clear-items: true
+clear-mobs: true
+interval: 200
